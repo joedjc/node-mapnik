@@ -2053,7 +2053,7 @@ void VectorTile::_queryMany(queryMany_result & result,
 
                     query_hit hit;
                     hit.distance = p2p.distance;
-                    hit.feature_id = idx;
+                    hit.feature_id = feature.id;
 
                     features.insert(std::make_pair(idx, res));
 
