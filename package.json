@@ -1,5 +1,5 @@
 {
-  "name": "mapnik",
+  "name": "mapnik-fid",
   "description": "Tile rendering library for node",
   "url": "http://github.com/mapnik/node-mapnik",
   "homepage": "http://mapnik.org",
@@ -18,17 +18,9 @@
     "email": "dane@mapbox.com",
     "url": "http://github.com/mapnik/node-mapnik/issues"
   },
-  "keywords": [
-    "map",
-    "graphics",
-    "canvas",
-    "tile",
-    "mapnik",
-    "carto"
-  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapnik/node-mapnik.git"
+    "url": "git://github.com/joedjc/node-mapnik.git"
   },
   "contributors": [
     "Konstantin Käfer",
